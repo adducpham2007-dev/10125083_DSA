@@ -38,7 +38,3 @@ a[3] = 1
 a[4] = 4
 Day sau khi sap xep tang dan:
 1 2 4 5 8
-
-=== Bài 5 ===
-Nhap n: 5
-Day Fibo: 130
