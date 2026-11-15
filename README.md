@@ -1,4 +1,4 @@
-# Bài tập CTDL&GT – 211131
+# Bài tập CTDL&GT – 10125083_DSA
 - Họ tên: Phạm Vũ Minh Đức
 - MSV: 10125083
 - Lớp: 10125O.1
